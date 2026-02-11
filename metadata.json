@@ -1,0 +1,8 @@
+{
+  "name": "Smart Campus Recruitment System",
+  "description": "An AI-powered recruitment platform connecting students, recruiters, and administrators with automated resume screening, job matching, skill-gap analysis, and interview coaching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
